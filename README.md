@@ -1,3 +1,7 @@
+
+## Deployed Project
+Check out the live version [here](https://happycoder26.github.io/cloned-dribbble-shot-responsive-design-project3/).
+
 # Project3
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0.
