@@ -16,8 +16,8 @@
 }
 
 .gola {
-    height: 17px;
-    width: 17px;
+    height: 22px;
+    width: 22px;
     background-color: black;
     border-radius: 50%;
 }
@@ -28,7 +28,7 @@
 }
 
 #nav-part2 h4 {
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 600;
 }
 
@@ -50,7 +50,7 @@
 }
 
 #nav2 h4 {
-    font-size: 14px;
+    font-size: 17px;
     text-transform: uppercase;
     font-weight: 600;
 }
@@ -87,7 +87,7 @@
 }
 
 .elem h1 {
-    font-size: 90px;
+    font-size: 115px;
     font-weight: 300;
     font-family: Poppins;
 }
@@ -117,7 +117,70 @@
     object-position: 0% 24%;
 }
 
-@media (max-width: 600px) {
+@media (max-width:1050px)
+{
+    .elem {
+        width: fit-content;
+        margin-right: 50px;
+    }
+
+    .elem:nth-child(1) {
+        margin-left: 40px;
+    }
+
+    .elem:nth-child(4) {
+        margin-right: 40px;
+    }
+
+    .elem h1 {
+        font-size: 105px;
+    }
+}
+
+@media (max-width:787px)
+{
+
+    .gola {
+        height: 21px;
+        width: 21px;
+    }
+    
+    #nav-part2 {
+        display: flex;
+        gap: 16px;
+    }
+    
+    #nav-part2 h4 {
+        font-size: 13px;
+    }
+
+    #nav2 {
+        gap: 20px;
+    }
+
+    #nav2 h4 {
+        font-size: 15px;
+    }
+
+    .elem {
+        width: fit-content;
+        margin-right: 40px;
+    }
+
+    .elem:nth-child(1) {
+        margin-left: 30px;
+    }
+
+    .elem:nth-child(4) {
+        margin-right: 30px;
+    }
+
+    .elem h1 {
+        font-size: 90px;
+    }
+}
+
+@media (max-width: 610px) {
     
     #nav1 {
         display: flex;
@@ -187,7 +250,7 @@
     }
 
     #text-content {
-        height: 30%;
+        height: 37%;
         width: 100%;
     }
     
@@ -222,7 +285,7 @@
     }
 
     #image-content {
-        height: 70%;
+        height: 63%;
         width: 100%;
         background-color: purple;
         display: flex;
