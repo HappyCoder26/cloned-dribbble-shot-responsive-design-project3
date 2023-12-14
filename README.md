@@ -1,6 +1,6 @@
 
 ## Deployed Project
-Check out the live version [here](https://happycoder26.github.io/cloned-dribbble-shot-responsive-design-project3/).
+Check out the live version [here](https://dribbble-shot-clone-responsive.web.app/).
 
 # Project3
 
