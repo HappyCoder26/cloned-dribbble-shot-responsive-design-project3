@@ -1,11 +1,11 @@
 
 ## Deployed Project
 
-Check out the live version [here]([https://dribbble-shot-clone-responsive.web.app/](https://happycoder26.github.io/cloned-dribbble-shot-responsive-design-project3/)).
+Check out the live version [here](https://happycoder26.github.io/cloned-dribbble-shot-responsive-design-project3/).
 
-## Firebase deployed link
+## Firebase Deployed Link
 
-[here](https://dribbble-shot-clone-responsive.web.app/).
+[Click here](https://dribbble-shot-clone-responsive.web.app/).
 
 # Project3
 
